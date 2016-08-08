@@ -378,9 +378,7 @@ header:after {
     margin: 0 auto;
 }
 header #logo-container {
-    float: left;
     display: block;
-    margin-right: 2.35765%;
     width: 68%;
 
 }
