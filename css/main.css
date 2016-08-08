@@ -383,16 +383,14 @@ header #logo-container {
 
 }
 
-header #logo-container:last-child {
-    margin-right: 0;
-}
+
 
 @media screen and (max-width: 540px) {
     header #logo-container {
-        float: left;
+
         display: block;
-        margin-right: 7.42297%;
-        width: 100%;
+
+        width: 28%;
     }
 
 
@@ -437,9 +435,7 @@ header nav {
     width: 74.41059%;
 }
 
-header nav:last-child {
-    margin-right: 0;
-}
+
 
 @media screen and (max-width: 540px) {
     header nav {
