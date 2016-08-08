@@ -341,7 +341,7 @@ a:hover {
 }
 
 header {
-    max-width: 68em;
+    max-width: 100%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 4em;
@@ -390,9 +390,8 @@ header #logo-container {
 
         display: block;
 
-        width: 28%;
+        width: 100%%;
     }
-
 
 }
 
