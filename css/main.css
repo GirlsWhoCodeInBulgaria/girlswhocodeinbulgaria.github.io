@@ -15,7 +15,9 @@ time, mark, audio, video {
   border: 0;
   outline: 0;
   vertical-align: baseline;
-  background: transparent;
+  background: url("/img/fullscreen_background.jpg");
+  background-size:cover;
+  background-attachment: fixed;
 }
 
 html, body {
