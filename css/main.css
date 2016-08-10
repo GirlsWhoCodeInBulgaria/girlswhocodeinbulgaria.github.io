@@ -272,7 +272,7 @@ a {
     -webkit-transition: color 0.1s linear;
     -moz-transition: color 0.1s linear;
     transition: color 0.1s linear;
-    color: #ffffff;
+    color: #f6706b;
     text-decoration: none;
 }
 
@@ -327,7 +327,7 @@ body {
 }
 
 a {
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #e83b38;
 }
 
 a:hover {
