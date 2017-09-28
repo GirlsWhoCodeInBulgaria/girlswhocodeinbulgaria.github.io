@@ -5,6 +5,7 @@ $(document).ready(function() {
 
 	$(function () {
 		$('a[rel="lightbox"]').fluidbox();
+		// what is this ?
 	})
 
 });
